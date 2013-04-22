@@ -26,3 +26,10 @@ Stanford J. Lunstrum. 1980. USDA Forest Service,
 
 http://www.fpl.fs.fed.us/documnts/fputr/fputr9.pdf
 
+
+Title: Wood Handbook, Chapter 03: Structure and Function of Wood
+
+Publication: General Technical Report FPL-GTR-190. Madison, WI: U.S. Department of Agriculture, Forest Service, Forest Products Laboratory: 3-1 - 3-18. Chapter 3.
+
+http://www.fpl.fs.fed.us/products/publications/several_pubs.php?grouping_id=100&header_id=p
+
